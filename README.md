@@ -1,10 +1,18 @@
-Setcolor is a simple library!
-heres an example that prints with bright green text
+# libsetcolor is a simple library!
 
-```# C
-#include "setcolor.h"
+its simple, so simple, all i need to tell you is that the supported colors are
 
-int main() {
-  setcolor(fg, bright, green);
-  printf("Hello, World!"):
-}```
+black
+red
+green
+yellow
+blue
+magenta
+cyan
+white
+
+and to read the example.c
+
+# congrats!
+
+you now libsetcolor
