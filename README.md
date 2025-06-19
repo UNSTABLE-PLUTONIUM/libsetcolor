@@ -17,4 +17,4 @@ and to read the example.c
 
 # congrats!
 
-you now use libsetcolor!
+you now can use libsetcolor!
