@@ -11,10 +11,10 @@ text is for the text color, bg is for the background color
 use bright and normal respectively for color variations
 
 I made macro definitions for color and colour
-so you can do setcolour and resetcolours instead if you wand
+so you can do setcolour and resetcolours instead if you want
 
 and to read the example.c
 
 # congrats!
 
-you now libsetcolor
+you now use libsetcolor!
