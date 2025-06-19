@@ -1,15 +1,14 @@
 # libsetcolor is a simple library!
 
-its simple, so simple, all i need to tell you is that the supported colors are
+its simple, so simple, all i need to tell you is...
 
-black
-red
-green
-yellow
-blue
-magenta
-cyan
-white
+the supported colors are:
+
+black, red, green, yellow, blue, magenta, cyan, white
+
+text is for the text color, bg is for the background color
+
+use bright and normal respectively for color variations
 
 and to read the example.c
 
