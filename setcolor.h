@@ -47,11 +47,11 @@ void setcolor(short plane, short variation, short color) {
 	printf("\033[%dm", (plane+variation+color));
 }
 
-void resetColors() { printf("\033[0m"); }
+void resetcolors() { printf("\033[0m"); }
 
 // thank me later ;)
 
 #define setcolour setcolor
-#define resetColours resetColors
+#define resetcolours resetcolors
 
 #endif // setcolor.h
