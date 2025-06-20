@@ -2,7 +2,6 @@
 #define _SETCOLOR_H
 
 #include <stdio.h>
-#include <string.h>
 
 // planes
 
